@@ -14,7 +14,7 @@ spec:
         app: guestbook-simple
     spec:
       containers:
-      - image: ghcr.io/kristof@collibra.com/guestbook:latest
+      - image: ghcr.io/kristofdepypere@collibra.com/guestbook:latest
         name: guestbook-simple
         ports:
         - name: http

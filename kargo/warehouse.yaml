@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/kristof@collibra.com/guestbook
+      repoURL: ghcr.io/kristofdepypere@collibra.com/guestbook
       imageSelectionStrategy: SemVer
