@@ -6,11 +6,11 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/kristofdepypere@collibra.com/kargo-simple.git
+    value: https://github.com/kristofdepypere/kargo-simple.git
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/kristofdepypere@collibra.com/guestbook
+    value: ghcr.io/kristofdepypere/guestbook
   - name: openpr
     value: "false"
   steps:

@@ -7,5 +7,5 @@ resources:
 namespace: guestbook-simple-prod
 
 images:
-- name: ghcr.io/kristofdepypere@collibra.com/guestbook
+- name: ghcr.io/kristofdepypere/guestbook
   newTag: v0.0.1
